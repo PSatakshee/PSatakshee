@@ -72,7 +72,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psatakshee&show_icons=true&theme=default&bg_color=00000000&hide_border=true" align="left" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatakshee&layout=compact&theme=default&bg_color=00000000&hide_border=true" align="right" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psatakshee&layout=compact&theme=default&hide_border=true" align="center" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psatakshee&layout=compact&theme=default&hide_border=true" align="center" width="75%"/>
 </div>
 
 </br>
@@ -82,6 +82,6 @@
 <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&column=6&title=-Issues,-Reviews">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&column=6&title=-Issues,-Reviews">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&row=1&column=6&title=-Issues-Reviews">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&row=1&column=6&title=-Issues,-Reviews">
 </picture>
 </div>
