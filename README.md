@@ -22,12 +22,15 @@
 
   <!--✨ ABOUT-->
   <div align="left">
-  <p align="justify">I'm a Post-Graduate from VIT, Chennai, with a strong foundation in full-stack development and a passion for building intelligent, user-centric web applications using LLMs and modern frameworks.</p>
-
-- 🚀 Currently building with **Next.js** and **LLMs** 
-- ✨ Obsessed with **AI-powered user experiences** and **decentralized tech** 
-- 🎯 Always learning, building, and leveling up
-
+    <p align="justify">I'm a Post-Graduate from VIT, Chennai, with a strong foundation in full-stack development and a passion for building intelligent, user-centric web applications using LLMs and modern frameworks.</p>
+  
+    <p align="justify">
+    
+    - 🚀 Currently building with **Next.js** and **LLMs** 
+    - ✨ Obsessed with **AI-powered user experiences** and **decentralized tech** 
+    - 🎯 Always learning, building, and leveling up
+    
+    </p>
   </div>
 </div>
 
@@ -69,7 +72,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psatakshee&show_icons=true&theme=default&bg_color=00000000&hide_border=true" align="left" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatakshee&layout=compact&theme=default&bg_color=00000000&hide_border=true" align="right" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psatakshee&layout=compact&theme=default&hide_border=true" align="center" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psatakshee&layout=compact&theme=default&hide_border=true" align="center" width="100%"/>
 </div>
 
 </br>
