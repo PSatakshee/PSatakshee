@@ -24,13 +24,13 @@
   <div align="left">
     <p align="justify">I'm a Post-Graduate from VIT, Chennai, with a strong foundation in full-stack development and a passion for building intelligent, user-centric web applications using LLMs and modern frameworks.</p>
   
-    <p align="justify">
+    <summary align="justify">
     
     - 🚀 Currently building with **Next.js** and **LLMs** 
     - ✨ Obsessed with **AI-powered user experiences** and **decentralized tech** 
     - 🎯 Always learning, building, and leveling up
     
-    </p>
+    </summary>
   </div>
 </div>
 
@@ -44,11 +44,11 @@
   </ul>
   
   <a href="mailto:sataksheepragya@gmail.com" target="_blank">
-    <img src="./mail.png" height=30 alt="gmail" />
+    <img src="./mail.png" height=25 alt="gmail" />
   </a>
   
   <a href="https://www.linkedin.com/in/pragyasatakshee/" target="_blank">
-    <img src="./linkedin.png" height=31  alt="LinkedIn" />
+    <img src="./linkedin.png" height=26  alt="LinkedIn" />
   </a>
   
   <!--<a href="" target="_blank">
@@ -56,11 +56,11 @@
   </a>-->
   
   <a href="https://leetcode.com/u/Satakshee/" target="_blank">
-    <img src="./leetcode.png" height=35  alt="Leetcode" />
+    <img src="./leetcode.png" height=30  alt="Leetcode" />
   </a>
   
   <a href="https://www.hackerrank.com/profile/Satakshee" target="_blank">
-    <img src="./hackerrank.webp" height=35  alt="HackerRank" />
+    <img src="./hackerrank.webp" height=30  alt="HackerRank" />
   </a>
 </div
 
@@ -72,7 +72,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psatakshee&show_icons=true&theme=default&bg_color=00000000&hide_border=true" align="left" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatakshee&layout=compact&theme=default&bg_color=00000000&hide_border=true" align="right" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psatakshee&layout=compact&theme=default&hide_border=true" align="center" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psatakshee&layout=compact&theme=default&hide_border=true" align="center" width="80%"/>
 </div>
 
 </br>
