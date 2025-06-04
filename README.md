@@ -80,8 +80,8 @@
 <!--🏆TROPHIES-->
 <div align="center">
 <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&column=6&title=-Issues,-Reviews">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&column=4">
+      <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&rank=A,B,C">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&rank=A,B,C">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&&rank=A,B,C">
 </picture>
 </div>
