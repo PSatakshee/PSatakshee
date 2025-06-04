@@ -56,7 +56,7 @@
   </a>-->
   
   <a href="https://leetcode.com/u/Satakshee/" target="_blank">
-    <img src="./leetcode.png" height=30  alt="Leetcode" />
+    <img src="./leetcode.png" height=35  alt="Leetcode" />
   </a>
   
   <a href="https://www.hackerrank.com/profile/Satakshee" target="_blank">
