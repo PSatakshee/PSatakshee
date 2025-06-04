@@ -82,6 +82,6 @@
 <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&column=6&title=-Issues,-Reviews">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&column=6&title=-Issues,-Reviews">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&row=1&column=6&rank=A,B">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=psatakshee&no-bg=true&no-frame=true&theme=flat&row=1">
 </picture>
 </div>
