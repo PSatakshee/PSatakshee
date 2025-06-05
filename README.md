@@ -51,9 +51,9 @@
     <img src="./linkedin.png" height=26  alt="LinkedIn" />
   </a>
   
-  <!--<a href="" target="_blank">
+  <a href="https://www.cloudskillsboost.google/public_profiles/5de4b97e-4631-4cee-8c43-a20ae9bbc3e3" target="_blank">
     <img src="./google_skill_boost.png" height=35  alt="Google Skill Boost" />
-  </a>-->
+  </a>
   
   <a href="https://leetcode.com/u/Satakshee/" target="_blank">
     <img src="./leetcode.png" height=30 width=35 alt="Leetcode" />
