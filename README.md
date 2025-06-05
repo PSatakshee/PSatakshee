@@ -52,7 +52,7 @@
   </a>
   
   <a href="https://www.cloudskillsboost.google/public_profiles/5de4b97e-4631-4cee-8c43-a20ae9bbc3e3" target="_blank">
-    <img src="./google_skill_boost.png" height=35  alt="Google Skill Boost" />
+    <img src="./google_skill_boost.png" height=30  alt="Google Skill Boost" />
   </a>
   
   <a href="https://leetcode.com/u/Satakshee/" target="_blank">
