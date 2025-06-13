@@ -24,7 +24,7 @@
   <div align="left">
     <p align="justify">I'm a Post-Graduate from VIT, Chennai, with a strong foundation in full-stack development and a passion for building intelligent, user-centric web applications using LLMs and modern frameworks.</p>
   
-<div align="justify">
+<div>
 
 - 🚀 Currently building with **Next.js** and **LLMs** 
 - ✨ Obsessed with **AI-powered user experiences** and **decentralized tech** 
